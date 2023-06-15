@@ -1,5 +1,4 @@
 class Solution {
-
     public long factorial(int N) {
         // Your code here
         if(N==1 || N==0)
